@@ -83,5 +83,5 @@ Configurações de projetos em Node.js, ReactJS e React Native do GitHub
 
 <hr>
 <stong>Pedro Lourenço</strong><br>
-<Strong>dev.pedrolourenco@gmail.com</strong>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
 <Strong>Instagram: @devpedrolourenco</strong>

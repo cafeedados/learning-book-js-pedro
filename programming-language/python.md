@@ -24,3 +24,9 @@ O Python é uma linguagem de programação que permite trabalhar mais rapidament
 ## Documentação e Instalação
 
 Clique [aqui](https://www.python.org/) para ver a documentação e outras opções de instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

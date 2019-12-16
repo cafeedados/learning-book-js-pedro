@@ -148,3 +148,9 @@ Para criar um app no Heroku, siga os seguintes procedimentos:
 - Na aba `Settings`, em `Domains and certificates`, clique em `Add domain`
 
 - Digite o nome do domínio e clique em `Save changes`.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

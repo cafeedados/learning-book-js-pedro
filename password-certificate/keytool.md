@@ -46,3 +46,9 @@ Aparecerá as seguintes perguntas:
 <sub>Informar a senha da chave de `<nome_alias>` (RETURN) se for igual à senha da área do armazenamento de chaves): [Armazenando `<nome_keystore>`]**Digite uma nova senha ou dê Enter para usar a mesma senha da área de armazenamento de chaves**</sub>
 
 Depois de concluído, aparecerá um arquivo de extensão keystore na pasta.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

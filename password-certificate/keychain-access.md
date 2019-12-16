@@ -33,3 +33,8 @@ Para gerar um certificado no Keychain Access, siga os seguintes procedimentos:
   - Crie uma pasta com o nome `Apple` e renomeie o certificado para `CSR.certSigningRequest` e clique em `Save`
 
   - Clique em `Done`.
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

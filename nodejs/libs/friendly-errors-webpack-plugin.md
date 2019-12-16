@@ -15,3 +15,8 @@ Instalar como dependência de desenvolvimento:
 ```
 npm install friendly-errors-webpack-plugin --save-dev | yarn add friendly-errors-webpack-plugin --dev
 ```
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

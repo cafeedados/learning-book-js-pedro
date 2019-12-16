@@ -15,3 +15,9 @@ Instalar globalmente:
 ```
 npm install --global gatsby-cli | yarn global add gatsby-cli
 ```
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>
+

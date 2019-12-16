@@ -50,3 +50,9 @@ appcenter codepush release-react -a <nome_organizacao>/<nome_app>
 ```
 
 Usar parâmetro `-d`, para escolher o ambiente de `Staging` ou `Production`, o padrão é staging
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

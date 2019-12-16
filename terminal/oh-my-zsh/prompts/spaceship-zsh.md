@@ -37,3 +37,9 @@ SPACESHIP_CHAR_SUFFIX=" "
 ```
 
 Salve o arquivo e feche o terminal.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

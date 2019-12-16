@@ -13,3 +13,9 @@ Clique [aqui](https://www.npmjs.com/package/bootstrap) para fazer a instalação
 ## CDN
 
 Clique [aqui](http://getbootstrap.com/docs/4.1/getting-started/introduction/) para ver o link do CDN.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

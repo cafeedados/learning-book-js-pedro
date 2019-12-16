@@ -20,3 +20,8 @@ Se instalar o React Navigation, à partir da versão `react-navigation@2.18.3`, 
 Para corrigir o erro, instale sempre o React Navigation e o [React Native Gesture Handler](react-native-gesture-handler.md).
 
 Clique [aqui](https://github.com/kmagiera/react-native-gesture-handler/issues/205) para mais detalhes sobre o erro.
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

@@ -9,3 +9,8 @@ Clique [aqui](https://github.com/infinitered/reactotron-redux) para ver a docume
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/reactotron-redux) para fazer a instalação.
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

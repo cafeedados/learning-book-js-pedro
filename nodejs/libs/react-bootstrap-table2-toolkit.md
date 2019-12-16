@@ -21,3 +21,8 @@ import 'react-bootstrap-table2-toolkit/dist/react-bootstrap-table2-toolkit.min.c
 ```
 
 Clique [aqui](react-bootstrap-table2-toolkit) para fazer a instalação.
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

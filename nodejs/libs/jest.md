@@ -33,3 +33,9 @@ Para um projeto Node.js as configurações são:
 <sub> Do you want Jest to add coverage reports? **yes** </sub>
 
 <sub> Automatically clear mock calls and instances between every test? **yes** </sub>
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

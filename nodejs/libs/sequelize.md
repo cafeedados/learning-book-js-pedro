@@ -11,3 +11,9 @@ Clique [aqui](https://github.com/sequelize/sequelize) para ver a documentação.
 Clique [aqui](https://www.npmjs.com/package/sequelize) para fazer a instalação.
 
 É necessário instalar também a interface de linha de comando [sequelize-cli](sequelize-cli.md).
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

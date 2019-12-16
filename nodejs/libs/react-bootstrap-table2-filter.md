@@ -21,3 +21,9 @@ import 'react-bootstrap-table2-filter/dist/react-bootstrap-table2-filter.min.css
 ```
 
 Clique [aqui](https://www.npmjs.com/package/react-bootstrap-table2-filter) para fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

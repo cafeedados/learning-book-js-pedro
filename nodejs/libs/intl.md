@@ -22,3 +22,8 @@ import 'intl/locale-data/jsonp/pt-BR';
 ```
 
 Clique [aqui](https://stackoverflow.com/questions/41736735/react-native-and-intl-polyfill-required-on-android-device/41935101#41935101) para mais detalhes sobre o erro.
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

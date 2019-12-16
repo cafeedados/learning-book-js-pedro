@@ -9,3 +9,8 @@ Clique [aqui](https://github.com/kevinsqi/react-calendar-heatmap) para ver a doc
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/react-calendar-heatmap) para fazer a instalação.
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

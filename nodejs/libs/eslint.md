@@ -113,3 +113,9 @@ Onde:
 
 - `<pasta>` - pasta onde vai ocorrer o fix. Ex: `src`
 - `<extensao>` - extensão dos arquivos que vão ocorrer o fix. Ex: `.js`
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

@@ -233,3 +233,9 @@ Assim que finalizar, acesse a pasta `third-party/glog-x-x-x`, preencha `x-x-x` c
 ```
 
 Depois disso, volte à pasta do seu projeto e rode `react-native run-ios` (Pode ser necessário rodar duas vezes).
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

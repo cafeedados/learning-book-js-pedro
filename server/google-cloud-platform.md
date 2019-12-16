@@ -5,3 +5,8 @@ Google Cloud Platform é uma suíte de computação em nuvem oferecida pelo Goog
 ## Documentação e Acesso ao Serviço
 
 Clique [aqui](https://cloud.google.com) para ver a documentação e acessar o serviço.
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

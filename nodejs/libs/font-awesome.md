@@ -9,3 +9,9 @@ Clique [aqui](https://github.com/FortAwesome/Font-Awesome) para ver a documenta�
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/font-awesome) para fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

@@ -11,3 +11,9 @@ Clique [aqui](https://github.com/Requarks/connect-loki) para ver a documentaçã
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/connect-loki) para fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

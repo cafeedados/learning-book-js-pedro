@@ -9,3 +9,9 @@ Clique [aqui](https://github.com/ptelad/react-native-iphone-x-helper#readme) par
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/react-native-iphone-x-helper) para fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

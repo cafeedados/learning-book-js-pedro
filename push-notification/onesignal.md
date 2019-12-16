@@ -97,3 +97,9 @@ Para enviar mensagens de testes no OneSignal, siga os seguintes procedimentos:
   - Clique em `Confirm`
 
 - Na janela `Confirm Before Sending`, clique em `Send Message`.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

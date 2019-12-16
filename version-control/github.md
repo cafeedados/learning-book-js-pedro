@@ -7,3 +7,8 @@ Além de servir como hospedagem, o Github possui muitas integrações com servi�
 ## Documentação e Acesso ao Serviço
 
 Clique [aqui](https://github.com) para ver a documentação e acessar o serviço.
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

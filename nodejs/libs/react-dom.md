@@ -9,3 +9,9 @@ Clique [aqui](https://github.com/facebook/react) para ver a documentação.
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/react-dom) para fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

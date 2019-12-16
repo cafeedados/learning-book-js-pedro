@@ -15,3 +15,8 @@ Instalar como dependência de desenvolvimento:
 ```
 npm install @sucrase/jest-plugin --save-dev | yarn add @sucrase/jest-plugin --dev
 ```
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

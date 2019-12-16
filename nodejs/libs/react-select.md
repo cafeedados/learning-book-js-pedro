@@ -9,3 +9,8 @@ Clique [aqui](https://github.com/JedWatson/react-select) para ver a documentaç�
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/react-select) para fazer a instalação.
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

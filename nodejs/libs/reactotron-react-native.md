@@ -17,3 +17,8 @@ Se a configuração do Reactotron estiver certa, mas mesmo assim não está apar
 ```
 adb reverse tcp:9090 tcp:9090
 ```
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

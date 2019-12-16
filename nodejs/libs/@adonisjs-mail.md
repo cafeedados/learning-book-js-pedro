@@ -17,3 +17,9 @@ adonis install @adonisjs/mail
 ```
 
 Obs: Ocorreu um erro ao instalar no terminal dentro do Visual Studio Code no Windows.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

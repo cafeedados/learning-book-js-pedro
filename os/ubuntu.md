@@ -197,3 +197,9 @@ Se ocorrer um erro ao executar, siga os procedimentos abaixo para criar uma past
   ```
 
 E execute os dois comandos.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

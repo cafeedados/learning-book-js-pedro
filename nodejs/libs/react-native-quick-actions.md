@@ -17,3 +17,9 @@ react-native link react-native-quick-actions
 ```
 
 Depois de linkar o componente, para compilar no iOS é necessário fazer uma configuração no arquivo `AppDelegate.m` (localize na barra de pesquisa) que podem ser encontrados [aqui](https://github.com/jordanbyron/react-native-quick-actions) na documentação em `Installing > Additional steps on iOS`. No Android não é necessário nenhuma configuração adicional.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

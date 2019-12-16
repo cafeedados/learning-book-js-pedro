@@ -9,3 +9,9 @@ Clique [aqui](https://github.com/jamiebuilds/react-loadable) para ver a document
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/react-loadable) para fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

@@ -39,3 +39,9 @@ Selecione o tema `Dracula` e dentro de `Text`, clique no botão `Change...`.
 Escolha a fonte `Fira Code` com Typeface `Retina`, Size `14` e Line Spacing `1,1`.
 
 Depois feche e abre o terminal.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

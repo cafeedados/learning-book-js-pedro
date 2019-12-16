@@ -21,3 +21,9 @@ import 'react-bootstrap-table2-paginator/dist/react-bootstrap-table2-paginator.m
 ```
 
 Clique [aqui](https://www.npmjs.com/package/react-bootstrap-table2-paginator) para fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

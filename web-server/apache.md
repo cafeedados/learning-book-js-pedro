@@ -9,6 +9,6 @@ Clique [aqui](https://www.apache.org) para ver a documentação e realizar o dow
 
 
 <hr>
-<stong>Pedro Lourenço</strong>
-<Strong>dev.pedrolourenco@gmail.com</strong>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
 <Strong>Instagram: @devpedrolourenco</strong>

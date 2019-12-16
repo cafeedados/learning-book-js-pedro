@@ -15,3 +15,9 @@ Instalar como dependência de desenvolvimento:
 ```
 npm install @types/jest --save-dev | yarn add @types/jest --dev
 ```
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

@@ -9,3 +9,9 @@ Clique [aqui](https://github.com/FaridSafi/react-native-google-places-autocomple
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/react-native-google-places-autocomplete) para fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

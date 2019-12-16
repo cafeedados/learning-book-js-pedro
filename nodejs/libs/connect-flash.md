@@ -9,3 +9,10 @@ Clique [aqui](https://github.com/jaredhanson/connect-flash) para ver a documenta
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/connect-flash) para fazer a instalação.
+
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

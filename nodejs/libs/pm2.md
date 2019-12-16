@@ -87,3 +87,7 @@ Para remover o script de inicialização:
 ```
 pm2 unstartup
 ```
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

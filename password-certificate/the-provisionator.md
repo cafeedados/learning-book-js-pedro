@@ -41,3 +41,8 @@ Para gerar os certificados, siga os seguintes procedimentos:
 Depois de concluído, é gerado três certificados.  
 
 O mais importante é o primeiro com o botão `Download p12 file`, clique nele para fazer o download do certificado e copie a senha.
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

@@ -448,3 +448,9 @@ Usando o flow, o nome do commit poderia ser:
 ```
 git commit -m "chore: Commit inicial"
 ```
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

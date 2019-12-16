@@ -145,3 +145,9 @@ end
 ```
 
 Agora, volte ao terminal e execute o comando `pod install`. Esse comando levará um tempo e para testar o funcionamento, rode o projeto no Simulador do iOS para garantir que não estão ocorrendo erros no processo de compilação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

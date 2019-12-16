@@ -9,3 +9,8 @@ Clique [aqui](https://github.com/reactjs/react-transition-group) para ver a docu
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/react-transition-group) para fazer a instalação.
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

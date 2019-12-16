@@ -9,3 +9,8 @@ Clique [aqui](https://github.com/mohitgupta8888/react-currency-format) para ver 
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/react-currency-format) para fazer a instalação.
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

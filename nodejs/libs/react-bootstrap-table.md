@@ -11,3 +11,9 @@ Clique [aqui](https://github.com/AllenFang/react-bootstrap-table) para ver a doc
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/react-bootstrap-table) para fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

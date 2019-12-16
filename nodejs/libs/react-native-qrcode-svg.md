@@ -11,3 +11,8 @@ Clique [aqui](https://github.com/awesomejerry/react-native-qrcode-svg) para ver 
 Antes é necessário instalar o [react-native-svg](react-native-svg.md).
 
 Clique [aqui](https://www.npmjs.com/package/react-native-qrcode-svg) para fazer a instalação.
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

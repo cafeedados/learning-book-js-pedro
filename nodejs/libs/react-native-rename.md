@@ -15,3 +15,9 @@ Instalar globalmente:
 ```
 npm install --global react-native-rename | yarn global add react-native-rename
 ```
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

@@ -9,3 +9,8 @@ Clique [aqui](https://github.com/ReactTraining/react-router/tree/master/packages
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/react-router-dom) para fazer a instalação.
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

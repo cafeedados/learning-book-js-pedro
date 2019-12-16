@@ -15,3 +15,9 @@ Instalar como dependência de desenvolvimento:
 ```
 npm install sass-loader --save-dev | yarn add sass-loader --dev
 ```
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

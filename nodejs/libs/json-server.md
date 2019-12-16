@@ -55,3 +55,9 @@ Onde:
 
 - `<nome_arquivo>` - arquivo que contém o json. Ex: `server.json`
 - `-H <ip_computador>` - IP do computador, como o padrão é `localhost` e no React Native com emulação via USB não funciona com o IP local, então é necessário alterar o IP. Ex: `192.168.0.102`.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

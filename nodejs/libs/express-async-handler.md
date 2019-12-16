@@ -9,3 +9,9 @@ Clique [aqui](https://github.com/Abazhenov/express-async-handler) para ver a doc
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/express-async-handler) para fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

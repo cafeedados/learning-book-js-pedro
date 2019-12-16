@@ -15,3 +15,9 @@ Instalar como dependência de desenvolvimento:
 ```
 npm install clean-webpack-plugin --save-dev | yarn add clean-webpack-plugin --dev
 ```
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

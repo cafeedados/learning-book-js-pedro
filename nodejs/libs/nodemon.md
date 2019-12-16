@@ -15,3 +15,8 @@ Instalar como dependência de desenvolvimento:
 ```
 npm install nodemon --save-dev | yarn add nodemon --dev
 ```
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

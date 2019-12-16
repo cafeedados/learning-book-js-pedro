@@ -9,3 +9,9 @@ Clique [aqui](https://github.com/webpack-contrib/webpack-bundle-analyzer) para v
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/webpack-bundle-analyzer) para fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

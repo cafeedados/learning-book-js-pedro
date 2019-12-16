@@ -54,3 +54,9 @@ Acesse `https://developer.android.com/studio/#downloads`, na opção `Somente fe
   ```
 
   Aceite todas licensas digitando `y` quando necessário.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

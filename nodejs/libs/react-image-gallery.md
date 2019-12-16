@@ -9,3 +9,9 @@ Clique [aqui](https://github.com/xiaolin/react-image-gallery) para ver a documen
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/react-image-gallery) para fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

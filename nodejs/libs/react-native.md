@@ -19,3 +19,8 @@ Observações:
 - Não há herança de estilo entre componentes pai e filho, só caso a exceção, se um componente `Text` estiver dentro de outro componente `Text`
 - Todos os componentes por padrão são configurados com `display: flex`
 - Todo texto tem que estar envolvido numa tag `<Text>`
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

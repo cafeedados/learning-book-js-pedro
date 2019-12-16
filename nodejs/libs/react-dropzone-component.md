@@ -9,3 +9,9 @@ Clique [aqui](https://github.com/felixrieseberg/React-Dropzone-Component) para v
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/react-dropzone-component) para fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

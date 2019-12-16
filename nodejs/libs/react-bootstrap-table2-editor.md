@@ -11,3 +11,8 @@ Clique [aqui](https://github.com/react-bootstrap-table/react-bootstrap-table2) p
 Antes é necessário instalar o [react-bootstrap-table-next](react-bootstrap-table-next.md).
 
 Clique [aqui](https://www.npmjs.com/package/react-bootstrap-table2-editor) para fazer a instalação.
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

@@ -13,3 +13,8 @@ Clique [aqui](https://www.npmjs.com/package/dotenv) para fazer a instalação.
 ## Configuração de Variáveis de Ambiente
 
 Faça uma cópia do arquivo `.env.example`, renomeie para `.env` e altere as variáveis de acordo com o seu ambiente.
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

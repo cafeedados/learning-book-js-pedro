@@ -15,3 +15,9 @@ Instalar como dependência de desenvolvimento:
 ```
 npm install factory-girl --save-dev | yarn add factory-girl --dev
 ```
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

@@ -15,3 +15,10 @@ Instalar com o Adonis:
 ```
 adonis install @adonisjs/lucid
 ```
+
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

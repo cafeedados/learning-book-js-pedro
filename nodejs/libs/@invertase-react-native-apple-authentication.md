@@ -9,3 +9,9 @@ Clique [aqui](https://github.com/invertase/react-native-apple-authentication) pa
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/@invertase/react-native-apple-authentication) para fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

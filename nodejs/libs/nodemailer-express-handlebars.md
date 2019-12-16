@@ -9,3 +9,9 @@ Clique [aqui](https://github.com/yads/nodemailer-express-handlebars) para ver a 
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/nodemailer-express-handlebars) para fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

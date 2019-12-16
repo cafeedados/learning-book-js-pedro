@@ -31,3 +31,7 @@ Para executar o script:
 ```
 npm run react-devtool | yarn run react-devtool
 ```
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

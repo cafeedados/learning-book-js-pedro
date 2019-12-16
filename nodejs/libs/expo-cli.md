@@ -52,3 +52,9 @@ Para executar o projeto no emulador do Android, clique em `Run on Android device
 Obs: No Android, precisa aceitar uma permissão antes de instalar.
 
 Para executar o projeto no emulador do iOS, clique em `Run on iOS simulator`.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

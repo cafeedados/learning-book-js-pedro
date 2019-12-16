@@ -9,3 +9,9 @@ Clique [aqui](https://github.com/react-dnd/react-dnd) para ver a documentação.
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/react-dnd-html5-backend) para fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

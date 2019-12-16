@@ -13,3 +13,8 @@ Para instalar execute o seguinte comando:
 ```
 sudo apt-get install curl
 ```
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

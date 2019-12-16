@@ -9,3 +9,9 @@ Clique [aqui](https://github.com/marlove/react-native-geocoding) para ver a docu
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/react-native-geocoding) para fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

@@ -9,3 +9,8 @@ Clique [aqui](https://github.com/apollographql/apollo-client) para ver a documen
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/apollo-client) para fazer a instalação.
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

@@ -11,3 +11,9 @@ Clique [aqui](https://github.com/tj/connect-redis) para ver a documentação.
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/connect-redis) para fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

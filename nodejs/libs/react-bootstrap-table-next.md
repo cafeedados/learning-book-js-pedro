@@ -19,3 +19,8 @@ import 'react-bootstrap-table-next/dist/react-bootstrap-table2.min.css';
 ```
 
 Clique [aqui](https://www.npmjs.com/package/react-bootstrap-table-next) para fazer a instalação.
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

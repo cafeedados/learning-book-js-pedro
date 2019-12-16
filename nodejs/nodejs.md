@@ -151,3 +151,8 @@ Executar testes no projeto:
 ```
 npm test | yarn test
 ```
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

@@ -15,3 +15,9 @@ Instalar como dependência de desenvolvimento:
 ```
 npm install webpack-dev-server --save-dev | yarn add webpack-dev-server --dev
 ```
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

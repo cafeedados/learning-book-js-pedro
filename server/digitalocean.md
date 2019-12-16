@@ -5,3 +5,8 @@ A DigitalOcean, Inc. é um provedor americano de infraestrutura de nuvem com sed
 ## Documentação e Acesso ao Serviço
 
 Clique [aqui](https://www.digitalocean.com) para ver a documentação e acessar o serviço.
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

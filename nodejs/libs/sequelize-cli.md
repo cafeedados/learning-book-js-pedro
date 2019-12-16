@@ -53,3 +53,9 @@ Desfazer todas as migrations:
 ```
 npx sequelize db:migrate:undo:all | yarn sequelize db:migrate:undo:all
 ```
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

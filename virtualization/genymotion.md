@@ -74,3 +74,9 @@ Segundo o erro, sua CPU não permite virtualização.
 Para tentar resolver, você pode acessar a BIOS da sua máquina e procurar por alguma opção com o nome VT-x ou Virtualizartion e alterar de `disabled` para `enabled`.  
 
 Outra opção, é verificar se o Hyper-V está habilitado e desabilitar.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

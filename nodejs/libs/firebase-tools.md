@@ -53,3 +53,9 @@ Para fazer o deploy:
 ```
 firebase deploy
 ```
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

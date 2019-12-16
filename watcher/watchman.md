@@ -17,6 +17,6 @@ Um serviço de observação de arquivos. O Watchman existe para observar arquivo
 Clique [aqui](https://facebook.github.io/watchman) para ver a documentação e outras opções de instalação.
 
 <hr>
-<stong>Pedro Lourenço</strong>
-<Strong>dev.pedrolourenco@gmail.com</strong>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
 <Strong>Instagram: @devpedrolourenco</strong>

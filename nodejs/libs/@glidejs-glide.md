@@ -9,3 +9,9 @@ Clique [aqui](https://github.com/glidejs/glide) para ver a documentação.
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/@glidejs/glide) para fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

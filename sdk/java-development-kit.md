@@ -39,3 +39,9 @@ Kit de Desenvolvimento Java é um conjunto de utilitários que permitem criar si
 ## Documentação e Instalação
 
 Clique [aqui](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) para ver a documentação e outras opções de instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

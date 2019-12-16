@@ -17,3 +17,9 @@ Depois de instalar, é necessário adicionar o bootstrap css no arquivo `src/ind
 ```
 import 'bootstrap/dist/css/bootstrap.css';
 ```
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

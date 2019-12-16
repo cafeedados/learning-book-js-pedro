@@ -9,3 +9,9 @@ Clique [aqui](https://github.com/filipedeschamps/cep-promise) para ver a documen
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/cep-promise) para fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

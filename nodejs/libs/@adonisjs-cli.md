@@ -128,7 +128,7 @@ Criar hook:
 adonis make:hook NomeHook
 ```
 
-Instalando a biblioteca [Adonis Kue Provider](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/adonis-kue.md), aparecem dois novos comandos que podem ser utilizados:
+Instalando a biblioteca [Adonis Kue Provider](https://github.com/devpedrolourenco/learning-book-pedro/blob/master/nodejs/libs/adonis-kue.md), aparecem dois novos comandos que podem ser utilizados:
 
 Criar job:
 
@@ -141,3 +141,8 @@ Executar ouvinte:
 ```
 adonis kue:listen
 ```
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

@@ -21,3 +21,8 @@ Para instalar, acesse o [site](https://ohmyz.sh) e copie o comando que está na 
 ## Gerenciadores de Plugins
 
 - [Zplugin](plugin-managers/zplugin.md)
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

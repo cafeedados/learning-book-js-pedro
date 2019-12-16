@@ -9,3 +9,9 @@ Clique [aqui](https://github.com/Kishanjvaghela/react-native-cardview) para ver 
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/react-native-cardview) para fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

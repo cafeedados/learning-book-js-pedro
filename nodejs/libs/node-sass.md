@@ -15,3 +15,8 @@ Instalar como dependência de desenvolvimento:
 ```
 npm install node-sass --save-dev | yarn add node-sass --dev
 ```
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

@@ -57,3 +57,10 @@ Obs: Nos testes executados não apareceu nenhum arquivo no Coverage Report, apar
 ```
 npm test --coverage --watchAll | yarn test --coverage --watchAll
 ```
+
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

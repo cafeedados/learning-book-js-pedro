@@ -11,3 +11,9 @@ Clique [aqui](https://github.com/tomzaku/react-native-shimmer-placeholder) para 
 Antes é necessário instalar o [react-native-linear-gradient](react-native-linear-gradient.md).
 
 Clique [aqui](https://www.npmjs.com/package/react-native-shimmer-placeholder) para fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

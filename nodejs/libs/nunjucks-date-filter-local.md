@@ -11,3 +11,9 @@ Clique [aqui](https://github.com/breeswish/nunjucks-date-filter-local) para ver 
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/nunjucks-date-filter-local) para fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

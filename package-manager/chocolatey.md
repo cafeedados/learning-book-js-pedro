@@ -43,3 +43,8 @@ Agora, teste se a instalação ocorreu corretamente executando o seguinte comand
 ```
 choco
 ```
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

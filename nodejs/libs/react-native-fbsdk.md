@@ -9,3 +9,9 @@ Clique [aqui](https://github.com/facebook/react-native-fbsdk) para ver a documen
 ## Instalação
 
 Clique [aqui](http://www.npmjs.com/package/react-native-fbsdk) para fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

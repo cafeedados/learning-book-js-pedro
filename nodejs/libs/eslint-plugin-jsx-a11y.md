@@ -15,3 +15,7 @@ Instalar como dependência de desenvolvimento:
 ```
 npm install eslint-plugin-jsx-a11y --save-dev | yarn add eslint-plugin-jsx-a11y --dev
 ```
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

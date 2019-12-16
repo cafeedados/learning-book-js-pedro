@@ -5,3 +5,9 @@ O Docker Hub, pra quem não sabe, é um serviço de registro em nuvem que permit
 ## Documentação e Acesso ao Serviço
 
 Clique [aqui](https://hub.docker.com) para ver a documentação e acessar o serviço.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

@@ -15,3 +15,7 @@ Depois da instalação é necessário executar o comando `react-native link` (_D
 ```
 react-native link react-native-swift
 ```
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

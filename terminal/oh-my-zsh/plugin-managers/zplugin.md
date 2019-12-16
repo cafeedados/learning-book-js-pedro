@@ -23,3 +23,9 @@ zplugin light zdharma/fast-syntax-highlighting
 ```
 
 Salve o arquivo, feche e abra o terminal.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

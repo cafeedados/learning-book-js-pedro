@@ -15,3 +15,9 @@ Clique [aqui](https://www.npmjs.com/package/react-perfect-scrollbar) para fazer 
 ```
 import 'react-perfect-scrollbar/dist/css/styles.css';
 ```
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

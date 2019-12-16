@@ -49,3 +49,9 @@ heroku config:set <nome_variavel>=<valor_variavel>
 ```
 
 Ex: `heroku config:set REACT_APP_API_URL=https://api.github.com`
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

@@ -9,3 +9,9 @@ Clique [aqui](https://github.com/andrewkeig/express-validation) para ver a docum
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/express-validation) para fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

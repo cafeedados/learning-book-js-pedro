@@ -17,3 +17,9 @@ Executar o ouvinte (incluindo Nodemon), é necessário tê-lo instalado antes:
 ```
 npm queue | yarn queue
 ```
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

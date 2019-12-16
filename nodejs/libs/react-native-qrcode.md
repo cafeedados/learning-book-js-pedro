@@ -17,3 +17,9 @@ Clique [aqui](https://www.npmjs.com/package/react-native-qrcode) para fazer a in
 Esta biblioteca está ocorrendo erro no WebView e está descontinuada, então utilizei a biblioteca [react-native-qrcode-svg](react-native-qrcode-svg.md).
 
 Clique [aqui](https://github.com/cssivision/react-native-qrcode/issues/75) para mais detalhes sobre o erro.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

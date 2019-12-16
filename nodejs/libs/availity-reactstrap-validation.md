@@ -9,3 +9,8 @@ Clique [aqui](https://github.com/Availity/availity-reactstrap-validation) para v
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/availity-reactstrap-validation) para fazer a instalação.
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

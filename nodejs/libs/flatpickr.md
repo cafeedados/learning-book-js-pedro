@@ -13,3 +13,10 @@ Clique [aqui](https://www.npmjs.com/package/flatpickr) para fazer a instalação
 ## CDN
 
 Clique [aqui](https://flatpickr.js.org/getting-started) para ver o link do CDN.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>
+

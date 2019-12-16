@@ -25,3 +25,8 @@ npm install lottie-ios@<versao> | yarn add lottie-ios@<versao>
 ```
 
 Para saber a versão, ver na documentação de instalação.
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

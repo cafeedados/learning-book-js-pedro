@@ -9,3 +9,9 @@ Clique [aqui](https://github.com/i6mi6/react-native-parallax-scroll-view) para v
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/react-native-parallax-scroll-view) para fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

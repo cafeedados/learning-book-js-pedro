@@ -9,3 +9,9 @@ Clique [aqui](https://github.com/villadora/express-http-proxy) para ver a docume
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/express-http-proxy) para fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

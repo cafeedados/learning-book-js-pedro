@@ -39,3 +39,10 @@ Para contornar isso, você pode adicionar um simples `--fill` como parâmetro pa
 ```
 rocketpwa --splash splash.png --fill "#7159C1"
 ```
+
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

@@ -27,3 +27,8 @@ apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
 ```
 
 Clique [aqui](https://github.com/oblador/react-native-vector-icons#option-with-gradle-recommended) para mais detalhes sobre o procedimento.
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>
