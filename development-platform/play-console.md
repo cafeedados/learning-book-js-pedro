@@ -193,3 +193,9 @@ Para conceder acesso à API do Play Console, siga os seguintes procedimentos:
   - Na seção `Contas de serviço`, aparecerá o serviço, clique em `Conceder acesso`
 
   - Abrirá a janela `Adicionar um novo utilizador`, clique em `Adicionar utilizador`  
+
+  
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

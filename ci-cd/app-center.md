@@ -297,3 +297,9 @@ Para configurar a store no iOS, siga os seguintes procedimentos:
     - Em `Select your app on App Store Connect`, selecione a aplicação
 
     - Clique em `Assign`.
+
+    
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

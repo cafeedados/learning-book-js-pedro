@@ -28,3 +28,9 @@ Onde:
 - Clique em `Done`
 
 Agora, quando for realizar alguma requisição, a variável poderá ser utilizada digitando o nome dela.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

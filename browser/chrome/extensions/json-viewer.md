@@ -9,3 +9,9 @@ Clique [aqui](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfal
 ## Tema
 
 Para ativar o tema [Dracula](../../../theme/dracula.md), clique no ícone do JSON Viewer e no item `Opções`, na página que abrir, em `Theme` selecione `dracula-custom` e clique em `Save`.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

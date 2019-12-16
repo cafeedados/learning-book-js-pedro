@@ -9,3 +9,8 @@ Em grande parte das vezes precisamos instalar algumas bibliotecas da versão 32b
 ```
 sudo apt-get install gcc-multilib lib32z1 lib32stdc++6
 ```
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

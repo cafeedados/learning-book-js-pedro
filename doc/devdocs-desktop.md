@@ -17,3 +17,9 @@ Clique nos três pontinhos no canto superior direito da tela e em `Preferences`.
 Na guia `Docs`, já vem com algumas documentações selecionadas, desative todas exceto a `JavaScript` e ative também o `React`, `ReactNative` e `Node.js` (pode ser a última versão).
 
 Na guia `Settings`, tem a opção de habilitar o tema escuro.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

@@ -5,3 +5,9 @@ O Amazon Simple Email Service (Amazon SES) é um serviço de envio de e-mail bas
 ## Documentação e Acesso ao Serviço
 
 Clique [aqui](https://aws.amazon.com/pt/ses) para ver a documentação e acessar o serviço.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

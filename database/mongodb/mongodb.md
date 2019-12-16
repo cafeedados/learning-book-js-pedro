@@ -35,3 +35,9 @@ Clique [aqui](https://docs.mongodb.com/manual/administration/install-community) 
       Ex: `cat /var/log/mongodb/mongod.log`
 
     - Na última linha do arquivo tem que aparecer `waiting for connections on port 27017` que significa que o MongoDB está funcionando.
+
+    
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

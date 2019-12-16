@@ -69,3 +69,9 @@ Para criar um cluster no MongoDB Atlas, siga os seguintes procedimentos:
     - Clique em `Close`
 
 - Com o caminho do banco de dados copiado, só adicionar na aplicação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

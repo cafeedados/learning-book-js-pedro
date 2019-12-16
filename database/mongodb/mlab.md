@@ -43,3 +43,10 @@ Para criar um usuário e senha, siga os seguintes procedimentos:
 - Digite um usuário, uma senha, a confirmação de senha e clique em `Create`.
 
 O usuário e a senha criados são utilizados para substituir as variáveis `<dbuser>` e `<dbpassword>` no link do banco de dados.
+
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

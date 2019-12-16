@@ -12,3 +12,9 @@ Clique [aqui](https://www.google.com/chrome) para ver a documentação e fazer a
 - [JSON Viewer](extensions/json-viewer.md)
 - [Lighthouse](extensions/lighthouse.md) - Opcional, se for criar Progressive Web Apps (PWA)
 - [React Developer Tools](extensions/react-developer-tools.md)
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

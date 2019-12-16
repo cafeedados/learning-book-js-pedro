@@ -5,3 +5,9 @@ Utilizado para escrever e ler Markdown dentro do VSCode, muito útil para docume
 ## Documentação e Instalação
 
 Clique [aqui](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) para ver a documentação e fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

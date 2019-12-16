@@ -249,3 +249,9 @@ Para enviar o app para a App Store Connect, siga os seguintes procedimentos:
     - Clique em `Done`
 
 Demorará alguns minutos para a aplicação aparecer na App Store Connect.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

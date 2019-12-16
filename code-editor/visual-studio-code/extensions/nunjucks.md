@@ -24,3 +24,9 @@ Depois de instalar a extensão, setar as configurações (Settings > Open settin
   },
 }
 ```
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

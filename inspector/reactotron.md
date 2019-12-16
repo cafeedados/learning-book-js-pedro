@@ -11,3 +11,8 @@ Clique [aqui](https://github.com/infinitered/reactotron) para ver a documentaç�
 ## Instalação
 
 Clique [aqui](https://github.com/infinitered/reactotron/releases) para fazer a instalação.
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

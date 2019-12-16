@@ -41,3 +41,9 @@ Para ver as configurações do projeto referente as mensagens, siga os seguintes
   - A `Chave do servidor` é igual a `Firebase Server Key`
 
   - O `Código do remetente` é igual a `Firebase Sender ID`
+
+  
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

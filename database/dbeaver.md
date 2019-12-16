@@ -5,3 +5,9 @@ O DBeaver é um cliente SQL e uma ferramenta de administração de banco de dado
 ## Documentação e Instalação
 
 Clique [aqui](https://dbeaver.io) para ver a documentação e fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

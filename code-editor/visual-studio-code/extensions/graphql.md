@@ -5,3 +5,9 @@ Extensão do GraphQL construído para o VSCode com o objetivo de integrar o Ecos
 ## Documentação e Instalação
 
 Clique [aqui](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql) para ver a documentação e fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

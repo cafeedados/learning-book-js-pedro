@@ -9,3 +9,9 @@ Clique [aqui](https://chrome.google.com/webstore/detail/react-developer-tools/fm
 ## Tema
 
 Para ativar o tema [Dracula](../../../theme/dracula.md), clique no ícone da engrenagem e selecione `Dracula`.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

@@ -25,3 +25,7 @@ Para parar o servidor
 cmd+L ou cmd+C
 Para parar o servidor no Mac
 ```
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

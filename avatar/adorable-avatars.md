@@ -9,3 +9,9 @@ Clique [aqui](http://avatars.adorable.io) para acessar o serviço.
 ## Documentação
 
 Clique [aqui](https://github.com/adorableio/avatars-api-middleware) para ver a documentação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

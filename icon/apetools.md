@@ -25,3 +25,9 @@ Para gerar ícones e splashscreens para iOS e Android, siga os seguintes procedi
   - Clique no botão `Kapow!`
 
   - Depois de processar, clique no botão `Download Zip`.
+
+  
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

@@ -5,3 +5,8 @@ Utilizado para ter suporte à sintaxe .env, muito útil para quem trabalha com N
 ## Documentação e Instalação
 
 Clique [aqui](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) para ver a documentação e fazer a instalação.
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

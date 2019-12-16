@@ -5,3 +5,9 @@ A GUI do MongoDB. Explore visualmente seus dados. Execute consultas ad hoc em se
 ## Documentação e Instalação
 
 Clique [aqui](https://www.mongodb.com/products/compass) para ver a documentação e fazer a instalação.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

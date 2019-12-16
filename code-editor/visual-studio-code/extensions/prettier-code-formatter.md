@@ -16,3 +16,8 @@ Depois de instalado o Prettier e o [ESLint](eslint.md), setar as configurações
   "prettier.eslintIntegration": true,
 }
 ```
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

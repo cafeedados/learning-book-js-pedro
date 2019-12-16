@@ -16,3 +16,9 @@ Depois de instalar o tema, setar as configurações (Settings > Open settings.js
   "workbench.colorTheme":"Dracula",
 }
 ```
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

@@ -127,3 +127,9 @@ Depois disso, a compilação irá para o time de desenvolvimento da Apple, se vo
 Quando faz um `git push` para a App Store Connect, aparecerá no menu `App para iOS`, uma nova versão do aplicativo, tendo que clicar na versão e no botão `Enviar para revisão`, pois, não é automático como na Google Play.  
 
 É possível usar o recurso `TestFlight`, configurando os grupos que vão ser os testers da sua aplicação.  
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

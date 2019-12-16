@@ -15,3 +15,9 @@ Embaixo da extensão, siga a seção `How to install`.
 Executando `chrome://flags/#enable-devtools-experiments` na barra de endereço e na tela aberta, habilite `Developer Tools experiments` e clique no botão `Relaunch Now`.
 
 Depois, clique nos três pontinhos no canto superior direito no devtools e em `Settings`. Selecione a guia `Experiments`, marque a opção `Allow custom UI themes` e reinicie o devtools.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

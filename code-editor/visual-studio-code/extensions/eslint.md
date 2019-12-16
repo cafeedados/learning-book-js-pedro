@@ -34,3 +34,9 @@ Depois de instalado o ESLint, setar as configurações (Settings > Open settings
   ],  
 }
 ```
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

@@ -5,3 +5,9 @@ O CI/CD mais simples e mais flexível. Para pequenas empresas até grandes equip
 ## Documentação e Acesso ao Serviço
 
 Clique [aqui](https://codeship.com) para ver a documentação e acessar o serviço.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

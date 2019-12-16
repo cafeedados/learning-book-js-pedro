@@ -100,3 +100,9 @@ Se for fazer algum teste poderá ser feito um passo a mais, clicando na engrenag
 Ou também, pode ser feito um passo a mais na última engrenagem fazendo com que se deu tudo certo, envie um SMS ou algo do tipo.
 
 Se quiser alterar o domínio, terá que ser feito através do servidor contratado.
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>

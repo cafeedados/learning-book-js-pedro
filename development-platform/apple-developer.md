@@ -191,3 +191,9 @@ Para criar um perfil de provisionamento no Apple Developer para `Development`, `
   - Clique no botão `Download`
 
 - Coloque o perfil de provisionamento (certificado) na pasta que deseja salvar (Ex: `Apple`).
+
+
+<hr>
+<stong>Pedro Lourenço</strong><br>
+<Strong>dev.pedrolourenco@gmail.com</strong><br>
+<Strong>Instagram: @devpedrolourenco</strong>
